@@ -1,0 +1,56 @@
+.logo {
+  margin-left: 30px;
+  text-decoration: none;
+  color: black;
+}
+
+.troubleshootLinkOpen {
+  margin-right: 15px;
+  border: 2px orange solid;
+}
+.troubleshootLinkUnder {
+  margin-left: 30px;
+}
+
+.troubleshootLink:hover {
+  background-color: lightcyan;
+}
+
+.pcbuildLinkOpen {
+  margin-right: 15px;
+  border: 2px red solid;
+}
+
+.pcbuildLinkUnder {
+  margin-left: 30px;
+}
+
+.webdevLinkOpen {
+  margin-right: 15px;
+  border: 2px lightblue solid;
+}
+
+.webdevLinkUnder {
+  margin-left: 30px;
+}
+
+.middlecontent {
+  border: 1px lightgray solid;
+  margin-top: 50px;
+  margin-right: 20%;
+  margin-left: 20%;
+
+  /* padding: 20px 0 70px 15px; */
+}
+
+.text {
+  padding: 20px 0 70px 15px;
+  font-size: 18px;
+}
+
+.quote {
+  display: flex;
+  justify-content: flex-end;
+  font-style: italic;
+  padding-bottom: 15px;
+}
